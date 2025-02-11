@@ -62,3 +62,7 @@ Created an Employee Management System performing basic CRUD operations using Dja
 - **GitHub:** [NextGenGk](https://github.com/nextgengk)
 - **LinkedIn:** [Gaurav Kumar](https://www.linkedin.com/in/gauravkumar077)
 - **X (formerly Twitter):** [@gauravkumar1697](https://x.com/gauravkumar1697)
+
+## Viewer Graph
+
+[![GAURAV KUMAR profile views](https://u8views.com/api/v1/github/profiles/95544839/views/day-week-month-total-count.svg)](https://u8views.com/github/NextGenGk)
